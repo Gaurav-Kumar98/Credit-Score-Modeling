@@ -9,6 +9,6 @@ Data - https://www.kaggle.com/imsparsh/lending-club-loan-dataset-2007-2011
 Language - Python  
 Libraries Used - NumPy, Pandas, Matplotlib, Seaborn, Sci-kit learn  
 
-Order of Files-
+Order of Code Files-
 1. Credit_score_modeling_stagePreprocessing.ipynb  
 2. Credit_score_modeling_stageModeling.ipynb  
